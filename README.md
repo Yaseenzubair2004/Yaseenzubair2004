@@ -19,7 +19,7 @@ Here are a few key repositories :
 
 | Repository | Description | Link
 |------------|-------------|
-| **retail_inventory_postgresql** | PostgreSQL
+| **retail_inventory_postgresql** | PostgreSQL | https://github.com/Yaseenzubair2004/retail_inventory_postgresql
 
 
 | **Airline Web Scraping** | Python notebook scraping flight data into structured tables | https://colab.research.google.com/github/Yaseenzubair2004/Yaseenzubair2004/blob/main/Airline%20web%20scraping.ipynb
