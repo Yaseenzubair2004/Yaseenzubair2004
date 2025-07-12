@@ -20,8 +20,14 @@ Here are a few key repositories :
 | Repository | Description | Link
 |------------|-------------|
 | **Airline Web Scraping** | Python notebook scraping flight data into structured tables | https://colab.research.google.com/github/Yaseenzubair2004/Yaseenzubair2004/blob/main/Airline%20web%20scraping.ipynb
+
+
 | **Hotel Booking EDA Project** | Python, Excel, Seaborn | HOTEL BOOKING EDA PROJECT.ipynb
+
+
 | **Superstore sales dashboard** | Power BI, Power Query, DAX | https://drive.google.com/file/d/1aTP5Z1kr2HSzr2h_21b8qPYvU_wiZWEU/view?usp=sharing
+
+
 | **Customer booking** | Python, Excel, Data Visualization | https://colab.research.google.com/github/Yaseenzubair2004/Yaseenzubair2004/blob/main/customer%20booking.ipynb
 
 ---
